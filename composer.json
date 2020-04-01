@@ -1,5 +1,5 @@
 {
-    "name": "eugenegpil/moyakladhelper",
+    "name": "eugenegpil/moyskladhelper",
     "type": "package",
     "require": {
         "php": "^7.1.3"
